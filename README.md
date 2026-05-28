@@ -169,7 +169,7 @@ MIT License - see LICENSE file for details
 
 ## Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Your Name - [GitHub Profile](https://github.com/SPraneeth88)
 
 ---
 
