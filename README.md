@@ -36,7 +36,7 @@ tests/              # Comprehensive test suite
 
 ### Basic Setup
 ```bash
-git clone https://github.com/yourusername/game-ai-arena.git
+git clone https://github.com/SPraneeth88/game-ai-arena.git
 cd game-ai-arena
 pip install -r requirements.txt
 ```
